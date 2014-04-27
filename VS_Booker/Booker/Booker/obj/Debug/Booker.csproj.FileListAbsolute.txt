@@ -37,3 +37,6 @@ C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Deb
 C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.frmLogin.resources
 C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.Properties.Resources.resources
 C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.csproj.GenerateResource.Cache
+C:\Users\Dino\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\bin\Debug\Booker.exe.config
+C:\Users\Dino\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.exe
+C:\Users\Dino\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.pdb
