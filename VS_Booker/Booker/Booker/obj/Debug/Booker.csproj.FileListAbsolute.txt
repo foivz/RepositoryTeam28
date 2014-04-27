@@ -1,0 +1,26 @@
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\bin\Debug\Booker.exe.config
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\bin\Debug\Booker.exe
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\bin\Debug\Booker.pdb
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.csprojResolveAssemblyReference.cache
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.frmLogin.resources
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.Properties.Resources.resources
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.csproj.GenerateResource.Cache
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.exe
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.pdb
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.Forme.frmGlavna.resources
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.Forme.frmKorisnici.resources
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.Forme.frmDodajKorisnika.resources
+c:\users\armin\documents\visual studio 2013\Projects\Booker\Booker\obj\Debug\Booker.Forme.frmKnjige.resources
+D:\Desktop\Booker\Booker\bin\Debug\Booker.exe.config
+D:\Desktop\Booker\Booker\obj\Debug\Booker.exe
+D:\Desktop\Booker\Booker\obj\Debug\Booker.pdb
+D:\Desktop\Booker\Booker\bin\Debug\Booker.exe
+D:\Desktop\Booker\Booker\bin\Debug\Booker.pdb
+D:\Desktop\Booker\Booker\obj\Debug\Booker.csprojResolveAssemblyReference.cache
+D:\Desktop\Booker\Booker\obj\Debug\Booker.Forme.frmDodajKorisnika.resources
+D:\Desktop\Booker\Booker\obj\Debug\Booker.Forme.frmKnjige.resources
+D:\Desktop\Booker\Booker\obj\Debug\Booker.Forme.frmGlavna.resources
+D:\Desktop\Booker\Booker\obj\Debug\Booker.Forme.frmKorisnici.resources
+D:\Desktop\Booker\Booker\obj\Debug\Booker.frmLogin.resources
+D:\Desktop\Booker\Booker\obj\Debug\Booker.Properties.Resources.resources
+D:\Desktop\Booker\Booker\obj\Debug\Booker.csproj.GenerateResource.Cache
