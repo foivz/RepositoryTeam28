@@ -24,3 +24,16 @@ D:\Desktop\Booker\Booker\obj\Debug\Booker.Forme.frmKorisnici.resources
 D:\Desktop\Booker\Booker\obj\Debug\Booker.frmLogin.resources
 D:\Desktop\Booker\Booker\obj\Debug\Booker.Properties.Resources.resources
 D:\Desktop\Booker\Booker\obj\Debug\Booker.csproj.GenerateResource.Cache
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\bin\Debug\Booker.exe.config
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.exe
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.pdb
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\bin\Debug\Booker.exe
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\bin\Debug\Booker.pdb
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.csprojResolveAssemblyReference.cache
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.Forme.frmDodajKorisnika.resources
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.Forme.frmKnjige.resources
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.Forme.frmGlavna.resources
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.Forme.frmKorisnici.resources
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.frmLogin.resources
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.Properties.Resources.resources
+C:\Users\Filip\Documents\GitHub\RepositoryTeam28\VS_Booker\Booker\Booker\obj\Debug\Booker.csproj.GenerateResource.Cache
