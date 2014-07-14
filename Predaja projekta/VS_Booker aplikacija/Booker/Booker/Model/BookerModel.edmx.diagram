@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="33afbb9b789e4f0da6526bdf60834806" Name="Diagram1">
+        <EntityTypeShape EntityType="BookerDBModel.autor" Width="1.5" PointX="0.875" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.autori_knjiga" Width="1.5" PointX="1" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.izdavac" Width="1.5" PointX="5.875" PointY="0.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.knjiga" Width="1.5" PointX="6.125" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.knjiga_vrsta" Width="1.5" PointX="9" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.komentari" Width="1.5" PointX="10.375" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.korisnici" Width="1.5" PointX="5.875" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.posudba" Width="1.5" PointX="3.5" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.prava" Width="1.5" PointX="8.125" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BookerDBModel.vrsta" Width="1.5" PointX="9" PointY="0.5" IsExpanded="true" />
+        <AssociationConnector Association="BookerDBModel.FKautori_knj317470" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKautori_knj993339" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKknjiga573149" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKknjiga_vrs495553" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKknjiga49108" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKkomentari484522" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKposudba648514" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKknjiga_vrs651193" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKkomentari409049" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKkorisnici944314" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKposudba426958" ManuallyRouted="false" />
+        <AssociationConnector Association="BookerDBModel.FKposudba587068" ManuallyRouted="false" >
+        </AssociationConnector>
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

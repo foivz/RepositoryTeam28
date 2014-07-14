@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BookerDBModelStoreContainer" CdmEntityContainer="BookerDBEntities">
+    <EntitySetMapping Name="autor">
+      <EntityTypeMapping TypeName="BookerDBModel.autor">
+        <MappingFragment StoreEntitySet="autor">
+          <ScalarProperty Name="id_autor" ColumnName="id_autor" />
+          <ScalarProperty Name="ime" ColumnName="ime" />
+          <ScalarProperty Name="prezime" ColumnName="prezime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="autori_knjiga">
+      <EntityTypeMapping TypeName="BookerDBModel.autori_knjiga">
+        <MappingFragment StoreEntitySet="autori_knjiga">
+          <ScalarProperty Name="id_knjiga_autor" ColumnName="id_knjiga_autor" />
+          <ScalarProperty Name="knjigaid_knjiga" ColumnName="knjigaid_knjiga" />
+          <ScalarProperty Name="autorid_autor" ColumnName="autorid_autor" />
+          <ScalarProperty Name="datum_upisa" ColumnName="datum_upisa" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="izdavac">
+      <EntityTypeMapping TypeName="BookerDBModel.izdavac">
+        <MappingFragment StoreEntitySet="izdavac">
+          <ScalarProperty Name="id_izdavac" ColumnName="id_izdavac" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="knjiga">
+      <EntityTypeMapping TypeName="BookerDBModel.knjiga">
+        <MappingFragment StoreEntitySet="knjiga">
+          <ScalarProperty Name="id_knjiga" ColumnName="id_knjiga" />
+          <ScalarProperty Name="isbn" ColumnName="isbn" />
+          <ScalarProperty Name="naslov" ColumnName="naslov" />
+          <ScalarProperty Name="godina_izdanja" ColumnName="godina_izdanja" />
+          <ScalarProperty Name="tema" ColumnName="tema" />
+          <ScalarProperty Name="izdanje" ColumnName="izdanje" />
+          <ScalarProperty Name="kolicina" ColumnName="kolicina" />
+          <ScalarProperty Name="izdavacid_izdavac" ColumnName="izdavacid_izdavac" />
+          <ScalarProperty Name="korisniciid_korisnici" ColumnName="korisniciid_korisnici" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="knjiga_vrsta">
+      <EntityTypeMapping TypeName="BookerDBModel.knjiga_vrsta">
+        <MappingFragment StoreEntitySet="knjiga_vrsta">
+          <ScalarProperty Name="id_knjiga_vrsta" ColumnName="id_knjiga_vrsta" />
+          <ScalarProperty Name="knjigaid_knjiga" ColumnName="knjigaid_knjiga" />
+          <ScalarProperty Name="vrstaid_vrsta" ColumnName="vrstaid_vrsta" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="komentari">
+      <EntityTypeMapping TypeName="BookerDBModel.komentari">
+        <MappingFragment StoreEntitySet="komentari">
+          <ScalarProperty Name="id_komentar" ColumnName="id_komentar" />
+          <ScalarProperty Name="korisniciid_korisnici" ColumnName="korisniciid_korisnici" />
+          <ScalarProperty Name="knjigaid_knjiga" ColumnName="knjigaid_knjiga" />
+          <ScalarProperty Name="komentar" ColumnName="komentar" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="korisnici">
+      <EntityTypeMapping TypeName="BookerDBModel.korisnici">
+        <MappingFragment StoreEntitySet="korisnici">
+          <ScalarProperty Name="id_korisnici" ColumnName="id_korisnici" />
+          <ScalarProperty Name="kor_ime" ColumnName="kor_ime" />
+          <ScalarProperty Name="lozinka" ColumnName="lozinka" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="pravaid_prava" ColumnName="pravaid_prava" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="posudba">
+      <EntityTypeMapping TypeName="BookerDBModel.posudba">
+        <MappingFragment StoreEntitySet="posudba">
+          <ScalarProperty Name="id_posudba" ColumnName="id_posudba" />
+          <ScalarProperty Name="knjigaid_knjiga" ColumnName="knjigaid_knjiga" />
+          <ScalarProperty Name="korisniciid_korisnici" ColumnName="korisniciid_korisnici" />
+          <ScalarProperty Name="korisniciid_korisnici2" ColumnName="korisniciid_korisnici2" />
+          <ScalarProperty Name="datum_posudbe" ColumnName="datum_posudbe" />
+          <ScalarProperty Name="datum_vracanja" ColumnName="datum_vracanja" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="prava">
+      <EntityTypeMapping TypeName="BookerDBModel.prava">
+        <MappingFragment StoreEntitySet="prava">
+          <ScalarProperty Name="id_prava" ColumnName="id_prava" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="vrsta">
+      <EntityTypeMapping TypeName="BookerDBModel.vrsta">
+        <MappingFragment StoreEntitySet="vrsta">
+          <ScalarProperty Name="id_vrsta" ColumnName="id_vrsta" />
+          <ScalarProperty Name="naziv" ColumnName="naziv" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
