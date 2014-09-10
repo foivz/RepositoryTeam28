@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookerDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="autor">
+    <Key>
+      <PropertyRef Name="id_autor" />
+    </Key>
+    <Property Name="id_autor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ime" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="prezime" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="autori_knjiga">
+    <Key>
+      <PropertyRef Name="id_knjiga_autor" />
+    </Key>
+    <Property Name="id_knjiga_autor" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="knjigaid_knjiga" Type="int" Nullable="false" />
+    <Property Name="autorid_autor" Type="int" Nullable="false" />
+    <Property Name="datum_upisa" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="izdavac">
+    <Key>
+      <PropertyRef Name="id_izdavac" />
+    </Key>
+    <Property Name="id_izdavac" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="30" Nullable="false" />
+  </EntityType>
+  <EntityType Name="knjiga">
+    <Key>
+      <PropertyRef Name="id_knjiga" />
+    </Key>
+    <Property Name="id_knjiga" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="isbn" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="naslov" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="godina_izdanja" Type="varchar" MaxLength="5" Nullable="false" />
+    <Property Name="tema" Type="varchar" MaxLength="160" />
+    <Property Name="izdanje" Type="int" />
+    <Property Name="kolicina" Type="int" Nullable="false" />
+    <Property Name="izdavacid_izdavac" Type="int" Nullable="false" />
+    <Property Name="korisniciid_korisnici" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="knjiga_vrsta">
+    <Key>
+      <PropertyRef Name="id_knjiga_vrsta" />
+    </Key>
+    <Property Name="id_knjiga_vrsta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="knjigaid_knjiga" Type="int" Nullable="false" />
+    <Property Name="vrstaid_vrsta" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="komentari">
+    <Key>
+      <PropertyRef Name="id_komentar" />
+    </Key>
+    <Property Name="id_komentar" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="korisniciid_korisnici" Type="int" Nullable="false" />
+    <Property Name="knjigaid_knjiga" Type="int" Nullable="false" />
+    <Property Name="komentar" Type="varchar" MaxLength="1000" Nullable="false" />
+  </EntityType>
+  <EntityType Name="korisnici">
+    <Key>
+      <PropertyRef Name="id_korisnici" />
+    </Key>
+    <Property Name="id_korisnici" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kor_ime" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="lozinka" Type="varchar" MaxLength="20" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="30" Nullable="false" />
+    <Property Name="pravaid_prava" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="posudba">
+    <Key>
+      <PropertyRef Name="id_posudba" />
+    </Key>
+    <Property Name="id_posudba" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="knjigaid_knjiga" Type="int" Nullable="false" />
+    <Property Name="korisniciid_korisnici" Type="int" Nullable="false" />
+    <Property Name="korisniciid_korisnici2" Type="int" Nullable="false" />
+    <Property Name="datum_posudbe" Type="datetime" Nullable="false" />
+    <Property Name="datum_vracanja" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="prava">
+    <Key>
+      <PropertyRef Name="id_prava" />
+    </Key>
+    <Property Name="id_prava" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <EntityType Name="vrsta">
+    <Key>
+      <PropertyRef Name="id_vrsta" />
+    </Key>
+    <Property Name="id_vrsta" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="naziv" Type="varchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FKautori_knj317470">
+    <End Role="autor" Type="Self.autor" Multiplicity="1" />
+    <End Role="autori_knjiga" Type="Self.autori_knjiga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="autor">
+        <PropertyRef Name="id_autor" />
+      </Principal>
+      <Dependent Role="autori_knjiga">
+        <PropertyRef Name="autorid_autor" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKautori_knj993339">
+    <End Role="knjiga" Type="Self.knjiga" Multiplicity="1" />
+    <End Role="autori_knjiga" Type="Self.autori_knjiga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="knjiga">
+        <PropertyRef Name="id_knjiga" />
+      </Principal>
+      <Dependent Role="autori_knjiga">
+        <PropertyRef Name="knjigaid_knjiga" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKknjiga_vrs495553">
+    <End Role="knjiga" Type="Self.knjiga" Multiplicity="1" />
+    <End Role="knjiga_vrsta" Type="Self.knjiga_vrsta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="knjiga">
+        <PropertyRef Name="id_knjiga" />
+      </Principal>
+      <Dependent Role="knjiga_vrsta">
+        <PropertyRef Name="knjigaid_knjiga" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKknjiga_vrs651193">
+    <End Role="vrsta" Type="Self.vrsta" Multiplicity="1" />
+    <End Role="knjiga_vrsta" Type="Self.knjiga_vrsta" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="vrsta">
+        <PropertyRef Name="id_vrsta" />
+      </Principal>
+      <Dependent Role="knjiga_vrsta">
+        <PropertyRef Name="vrstaid_vrsta" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKknjiga49108">
+    <End Role="korisnici" Type="Self.korisnici" Multiplicity="1" />
+    <End Role="knjiga" Type="Self.knjiga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="korisnici">
+        <PropertyRef Name="id_korisnici" />
+      </Principal>
+      <Dependent Role="knjiga">
+        <PropertyRef Name="korisniciid_korisnici" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKknjiga573149">
+    <End Role="izdavac" Type="Self.izdavac" Multiplicity="1" />
+    <End Role="knjiga" Type="Self.knjiga" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="izdavac">
+        <PropertyRef Name="id_izdavac" />
+      </Principal>
+      <Dependent Role="knjiga">
+        <PropertyRef Name="izdavacid_izdavac" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKkomentari409049">
+    <End Role="korisnici" Type="Self.korisnici" Multiplicity="1" />
+    <End Role="komentari" Type="Self.komentari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="korisnici">
+        <PropertyRef Name="id_korisnici" />
+      </Principal>
+      <Dependent Role="komentari">
+        <PropertyRef Name="korisniciid_korisnici" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKkomentari484522">
+    <End Role="knjiga" Type="Self.knjiga" Multiplicity="1" />
+    <End Role="komentari" Type="Self.komentari" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="knjiga">
+        <PropertyRef Name="id_knjiga" />
+      </Principal>
+      <Dependent Role="komentari">
+        <PropertyRef Name="knjigaid_knjiga" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKkorisnici944314">
+    <End Role="prava" Type="Self.prava" Multiplicity="1" />
+    <End Role="korisnici" Type="Self.korisnici" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="prava">
+        <PropertyRef Name="id_prava" />
+      </Principal>
+      <Dependent Role="korisnici">
+        <PropertyRef Name="pravaid_prava" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKposudba426958">
+    <End Role="korisnici" Type="Self.korisnici" Multiplicity="1" />
+    <End Role="posudba" Type="Self.posudba" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="korisnici">
+        <PropertyRef Name="id_korisnici" />
+      </Principal>
+      <Dependent Role="posudba">
+        <PropertyRef Name="korisniciid_korisnici" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKposudba587068">
+    <End Role="korisnici" Type="Self.korisnici" Multiplicity="1" />
+    <End Role="posudba" Type="Self.posudba" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="korisnici">
+        <PropertyRef Name="id_korisnici" />
+      </Principal>
+      <Dependent Role="posudba">
+        <PropertyRef Name="korisniciid_korisnici2" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FKposudba648514">
+    <End Role="knjiga" Type="Self.knjiga" Multiplicity="1" />
+    <End Role="posudba" Type="Self.posudba" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="knjiga">
+        <PropertyRef Name="id_knjiga" />
+      </Principal>
+      <Dependent Role="posudba">
+        <PropertyRef Name="knjigaid_knjiga" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BookerDBModelStoreContainer">
+    <EntitySet Name="autor" EntityType="Self.autor" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="autori_knjiga" EntityType="Self.autori_knjiga" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="izdavac" EntityType="Self.izdavac" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="knjiga" EntityType="Self.knjiga" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="knjiga_vrsta" EntityType="Self.knjiga_vrsta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="komentari" EntityType="Self.komentari" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="korisnici" EntityType="Self.korisnici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="posudba" EntityType="Self.posudba" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="prava" EntityType="Self.prava" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="vrsta" EntityType="Self.vrsta" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FKautori_knj317470" Association="Self.FKautori_knj317470">
+      <End Role="autor" EntitySet="autor" />
+      <End Role="autori_knjiga" EntitySet="autori_knjiga" />
+    </AssociationSet>
+    <AssociationSet Name="FKautori_knj993339" Association="Self.FKautori_knj993339">
+      <End Role="knjiga" EntitySet="knjiga" />
+      <End Role="autori_knjiga" EntitySet="autori_knjiga" />
+    </AssociationSet>
+    <AssociationSet Name="FKknjiga_vrs495553" Association="Self.FKknjiga_vrs495553">
+      <End Role="knjiga" EntitySet="knjiga" />
+      <End Role="knjiga_vrsta" EntitySet="knjiga_vrsta" />
+    </AssociationSet>
+    <AssociationSet Name="FKknjiga_vrs651193" Association="Self.FKknjiga_vrs651193">
+      <End Role="vrsta" EntitySet="vrsta" />
+      <End Role="knjiga_vrsta" EntitySet="knjiga_vrsta" />
+    </AssociationSet>
+    <AssociationSet Name="FKknjiga49108" Association="Self.FKknjiga49108">
+      <End Role="korisnici" EntitySet="korisnici" />
+      <End Role="knjiga" EntitySet="knjiga" />
+    </AssociationSet>
+    <AssociationSet Name="FKknjiga573149" Association="Self.FKknjiga573149">
+      <End Role="izdavac" EntitySet="izdavac" />
+      <End Role="knjiga" EntitySet="knjiga" />
+    </AssociationSet>
+    <AssociationSet Name="FKkomentari409049" Association="Self.FKkomentari409049">
+      <End Role="korisnici" EntitySet="korisnici" />
+      <End Role="komentari" EntitySet="komentari" />
+    </AssociationSet>
+    <AssociationSet Name="FKkomentari484522" Association="Self.FKkomentari484522">
+      <End Role="knjiga" EntitySet="knjiga" />
+      <End Role="komentari" EntitySet="komentari" />
+    </AssociationSet>
+    <AssociationSet Name="FKkorisnici944314" Association="Self.FKkorisnici944314">
+      <End Role="prava" EntitySet="prava" />
+      <End Role="korisnici" EntitySet="korisnici" />
+    </AssociationSet>
+    <AssociationSet Name="FKposudba426958" Association="Self.FKposudba426958">
+      <End Role="korisnici" EntitySet="korisnici" />
+      <End Role="posudba" EntitySet="posudba" />
+    </AssociationSet>
+    <AssociationSet Name="FKposudba587068" Association="Self.FKposudba587068">
+      <End Role="korisnici" EntitySet="korisnici" />
+      <End Role="posudba" EntitySet="posudba" />
+    </AssociationSet>
+    <AssociationSet Name="FKposudba648514" Association="Self.FKposudba648514">
+      <End Role="knjiga" EntitySet="knjiga" />
+      <End Role="posudba" EntitySet="posudba" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

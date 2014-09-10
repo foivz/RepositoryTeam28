@@ -1,0 +1,156 @@
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\bin\Release\Booker.exe
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\bin\Release\Booker.pdb
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\bin\Release\EntityFramework.dll
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\bin\Release\EntityFramework.xml
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.csprojResolveAssemblyReference.cache
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmAzurirajKorisnika.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmDodajKnjigu.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmDodajKorisnika.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmDodajPosudbu.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmPregledPosudbi.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeAutorima.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeIzdavacima.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeZanrovima.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmKnjige.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmPostavke.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmGlavna.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Forme.frmKorisnici.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.frmLogin.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.Properties.Resources.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.csproj.GenerateResource.Cache
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker\Booker\Booker\obj\Release\Booker.pdb
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.pdb
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\bin\Release\Booker.exe
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\bin\Release\Booker.pdb
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\bin\Release\EntityFramework.dll
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\bin\Release\EntityFramework.xml
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.csprojResolveAssemblyReference.cache
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmAzurirajKorisnika.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmDodajKnjigu.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmDodajKorisnika.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmDodajPosudbu.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmPregledPosudbi.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeAutorima.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeIzdavacima.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeZanrovima.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmKnjige.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmPostavke.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmGlavna.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Forme.frmKorisnici.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.frmLogin.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.Properties.Resources.resources
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit\Booker\Booker\obj\Release\Booker.csproj.GenerateResource.Cache
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit finalno\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit finalno\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Matija Popijač\Desktop\PI projekt\VS_Booker - edit finalno\Booker\Booker\obj\Release\Booker.pdb
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.pdb
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.pdb
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.dll
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.xml
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csprojResolveAssemblyReference.cache
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmAzurirajKorisnika.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKnjigu.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKorisnika.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajPosudbu.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPregledPosudbi.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeAutorima.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeIzdavacima.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeZanrovima.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKnjige.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPostavke.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmGlavna.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKorisnici.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.frmLogin.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Properties.Resources.resources
+C:\Users\Matija Popijač\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csproj.GenerateResource.Cache
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.dll
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.xml
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmAzurirajKorisnika.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKnjigu.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKorisnika.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajPosudbu.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPregledPosudbi.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeAutorima.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeIzdavacima.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeZanrovima.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKnjige.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPostavke.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmGlavna.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKorisnici.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.frmLogin.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Properties.Resources.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csproj.GenerateResource.Cache
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.pdb
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.pdb
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.pdb
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.pdb
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.dll
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.xml
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csprojResolveAssemblyReference.cache
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmAzurirajKorisnika.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKnjigu.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKorisnika.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajPosudbu.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPregledPosudbi.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeAutorima.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeIzdavacima.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeZanrovima.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKnjige.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPostavke.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmGlavna.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKorisnici.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.frmLogin.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Properties.Resources.resources
+C:\Users\Tomislav\Desktop\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csproj.GenerateResource.Cache
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.pdb
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.pdb
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.dll
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.xml
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csprojResolveAssemblyReference.cache
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmAzurirajKorisnika.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKnjigu.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajKorisnika.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmDodajPosudbu.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPregledPosudbi.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeAutorima.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeIzdavacima.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmUpravljanjeZanrovima.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKnjige.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmPostavke.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmGlavna.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Forme.frmKorisnici.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.frmLogin.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.Properties.Resources.resources
+C:\Users\Dino\Desktop\PROJEKT PI !!!!!!!!!!!!\NOVO!!!!!!!!!!\Predaja projekta\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.csproj.GenerateResource.Cache
+C:\Users\Dino\Desktop\PREDAJA\VS_Booker aplikacija\Booker\Booker\bin\Release\Booker.exe.config
+C:\Users\Dino\Desktop\PREDAJA\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.exe
+C:\Users\Dino\Desktop\PREDAJA\VS_Booker aplikacija\Booker\Booker\obj\Release\Booker.pdb
