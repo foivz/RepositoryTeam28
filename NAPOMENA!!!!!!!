@@ -1,0 +1,19 @@
+Kolege,
+
+Kada sam branio projekt sada na roku(9.mj) asistent Mijač je vidio pogrešku u aplikaciji, pogrešku za koju je rekao kolegi Popijaču kada je branio projekt na roku u
+7. mjesecu. Ali kolega Popijač mi nije rekao za tu pogrešku, možda je zaboravio(rekao mi je samo za pogreške koje sam ispravio:Use case, dijagrami aktivnosti, Help, Dijagram klasa).
+
+Ispravite ovu pogrešku jer će asistent Mijač sigurno pitati i provjeriti:
+
+-Kada Korisnik vrati knjigu i administrator evidentira povratak knjige(u aplikaciji odaberemo korisnika(iz DataGrida) koji je vratio knjigu i kliknemo vrati knjigu).
+-Korisnika brišemo iz tablice posudba!!!.
+-Problem je taj što moramo imati izvješće o svakoj transakciji(posudbi) korisnika neke knjige. 
+Tj. moramo negdje spremiti sve knjige koje je korisnik posudio s informacijama kada je posudio i vratio, tko mu je posudio(admin) itd.
+dakle povjest svih posudbi neke knjige nekog korisnika(History).
+
+Sretno i Pozdrav 
+
+Dino Vukušić
+
+
+ 
