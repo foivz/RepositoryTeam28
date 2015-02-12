@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Booker.Forme.frmAzurirajKorisnika">
+    <Position X="6.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAFAAKACAAEEGAAAABgAAAEAAAAEAAAA=</HashCode>
+      <FileName>Forme\frmAzurirajKorisnika.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Booker.Forme.frmDodajKnjigu">
+    <Position X="2" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAEAAgAAAqAAARgAyICgAAkGEABQQAIQSAgRAiEABMA=</HashCode>
+      <FileName>Forme\frmDodajKnjigu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

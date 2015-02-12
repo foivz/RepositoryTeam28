@@ -1,0 +1,8 @@
+Nakon instalacije kako bi aplikacija radila potrebno je instalirati 
+Microsoft SQL Server 2012-SQL Management Studio
+Link: http://www.microsoft.com/en-us/download/details.aspx?id=29062
+Te u studiu kreirati server: GALAFIX/SQLEXPRESS
+na serveru kreirati bazu BookerDB,
+i pomoæu skripte: srkipta.sql kreirati bazu.
+I u bazi unijeti u tablicu "prava" pod 1. Korisnik , pod 2. Administrator.
+Te kreirati jednog korisnika Administratora s kojim æete se moæi prijaviti.

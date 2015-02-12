@@ -1,0 +1,134 @@
+﻿
+<html>
+<body>
+
+<head>
+<style>
+.colorHeading {
+    color: red;
+ }
+</style>
+
+</head>
+
+<h2>Help dokument za aplikaciju Booker</h2>
+<br/>
+Na glavnom prozoru postoje sljedeće opcije:
+<br/>
+<ul>
+	<li><a href="#tabKorisnici"> Korisnici </a> </li>
+	<li><a href="#tabKnjige"> Knjige </a>  </li>
+	<li><a href="#tabPosudbe"> Posudbe </a>  </li>
+	<li><a href="#tabPostavke"> Postavke </a>  </li>
+	<li><a href="#tabIzlaz"> Izlaz </a>  </li>
+</ul>
+
+<br/><br/><br/><br/><br/>
+
+<div id="tabKorisnici">
+	<h3 class="colorHeading">Korisnici</h3>
+	<p>Napomena: STRANICI MOŽE PRISTUPITI SAMO ADMINISTRATOR APLIKACIJE !</p>
+	<p>Odabirom <b>Korisnici</b> sa glavnog izbornika otvara se prozor kojim upravljamo svim korisnicima u sustavu. </p>
+	<br/>
+	<img src="korisnici.png" height="250" width="840px"/>
+	<br/>
+	<br/>
+	Postoje 3 opcije:
+	<ul>
+		<li>Uredi korisnika</li> -> uređuje se onaj korisnik koji je trenutno odabran unutar DataGridView-a
+		<li>Obriši korisnika</li> -> briše se onaj korisnik koji je trenutno odabran unutar DataGridView-a
+		<li>Dodaj korisnika</li>
+	</ul>
+	
+</div>
+
+<div id="tabKnjige">
+	<h3 class="colorHeading">Knjige</h3>
+	Odabirom <b>Knjige</b> pojavljuju se 2 opcije:
+	<ul>
+		<li><b>Pregled knjiga</b> </li>
+		<li><b>Pregled posudbi</b> - stranica samo za administratora</li>
+	</ul>
+	<br/>
+	<u>Pregled knjiga</u>
+	<br/>
+	<br/>
+	<img src="pregledKnjiga.png" height="550" width="640px"/>
+	<br/>
+	<br/>
+	U gornjem dijelu prozora nalazi se popis svih knjiga koje se trenutno nalaze u knjižnici kao i informacije o njima.<br/>
+	Iznad popisa knjiga nalazi se filter pomoću kojega možemo pretraživati knjige po nazivu. <br/>
+	U doljnjem dijelu prozora nalazi se prostor za komentiranje. Svaki korisnik može komentirati i pregledavati ostale komentare.
+	<br/><br/><br/>
+	<u>Pregled posudbi</u>
+	<br/>
+	<br/>
+	<img src="dodavanjeKnjige.png" height="550" width="640px"/>
+	<br/>
+	<br/>
+	Forma za popunjavanje knjiga zahtijeva popunjavanje svih polja.<br/>
+	Moguće je dodati do 5 autora po knjizi kao i 5 žanrova.<br/>
+	Minimalno po knjizi se mora dodati po 1 žanr i 1 autor. Ukoliko se želi <br/>
+	dodati više žanrova ili autora to se može učiniti odabirom gumba <b>+</b>, odnosno <br/>
+	ukoliko želimo obrisati autora ili žanr to se može odabirom gumba <b>-</b>. Isto je prikazano na slici ispod.
+	<br/>
+	<img src="zanrAutorKnjiga.png" height="550" width="640px"/>
+	<br/>
+	
+</div>
+
+<div id="tabPosudbe">
+	<h3 class="colorHeading">Posudbe</h3>
+	<p>Napomena: STRANICI MOŽE PRISTUPITI SAMO ADMINISTRATOR APLIKACIJE !</p>
+	Odabirom <b>Posudbe</b> pojavljuju se 2 opcije:
+	<ul>
+		<li><b>Pregled posudbi</b> </li>
+		<li><b>Dodaj posudbu</b></li>
+	</ul>
+	<br/>
+	<u>Pregled posudbi</u>
+	<br/>
+	<br/>
+	<img src="pregledPosudbi.png" height="550" width="640px"/>
+	<br/>
+	
+	Na prozoru <b>Pregled posudbi</b> prikazane su sve trenutne posudbe. Moguće je pretraživati posudbe <br/>
+	po imenu korisnika, a knjigu vraćamo i poništavamo posudbu na način da odaberemo knjigu koju želimo vratiti <br/>
+	unutar DataGridView-a i odaberemo <b>Vrati knjigu</b>.
+	<br/>
+	<br/>
+	<u>Dodaj posudbu</u>
+	<br/>
+	<img src="dodajPosudbu.png" height="550" width="640px"/>
+	<br/>
+	<br/>
+	Administrator aplikacije može dodati novu posudbu. Nakon odabira otvara mu se prozor kao na slici iznad.
+	Odabire knjigu koju korisnik želi posuditi kao i samog korisnika, a može i odabrati želi li izdati knjigu <br/>
+	na 15 dana ili 30 dana.
+</div>
+
+<div id="tabPostavke">
+	<h3 class="colorHeading">Postavke</h3>
+		<p>Napomena: STRANICI MOŽE PRISTUPITI SAMO ADMINISTRATOR APLIKACIJE !</p>
+		Ovdje administrator upravlja aplikacijom u tri odvojene grupe.
+		<ul>
+			<li>Upravljanje žanrovima</li>
+			<li>Upravljanje autorima</li>
+			<li>Upravljanje izdavačima</li>
+		</ul>
+		<br/>
+		Odabirom bilo koje opcije administrator ima mogućnosti dodavanja i brisanja odabranog.
+		<br/><br/>
+		<img src="postavke.png" height="350" width="340px"/>
+	<br/>
+</div>
+
+<div id="tabIzlaz">
+	<h3 class="colorHeading">Izlaz</h3>
+	Izlaz iz aplikacije.
+</div>
+
+
+
+</body>
+</html>
